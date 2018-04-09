@@ -1,0 +1,15 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	background-color: #c1aadd;
+	font-family: 'Dosis', cursive;
+	font-weight: bold;
+	text-align: left;
+	padding: 40px;
+}
+
+button {
+	padding: 6px 10px;
+	margin: 10px;
+}
